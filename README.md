@@ -1,2 +1,2 @@
 # monNaviguateur
-un naviguateur pratique réalisé après un tuti
+un naviguateur pratique réalisé après un tuto sur qt graphique!
